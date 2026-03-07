@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro-suesca&label=Visitas&color=0e75b6&style=flat" alt="mauro-suesca" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [Tametsi_Solver](https://github.com/Mauro-Suesca/Tametsi_Solver)
-
 - 🌱 Estoy aprendiendo **desarrollo web en freecodecamp**
-
-- 🔭 Quiero continuar con [Pasómetro](https://github.com/Mauro-Suesca/Pasometro)
 
 - ⚡ Dato curioso **Estoy certificado con un C1 en inglés y sé cosas básicas de japonés**
 
