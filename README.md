@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro-suesca&label=Visitas&color=0e75b6&style=flat" alt="mauro-suesca" /> </p>
 
-- 🌱 Estoy aprendiendo **desarrollo web en freecodecamp**
-
-- ⚡ Dato curioso **Estoy certificado con un C1 en inglés y sé cosas básicas de japonés**
+- ⚡ Dato curioso **Estoy certificado con un C1 en inglés y tengo un nivel aproximado de N3 en japonés**
 
 <h3 align="left">Otros sitios:</h3>
 <p align="left">
